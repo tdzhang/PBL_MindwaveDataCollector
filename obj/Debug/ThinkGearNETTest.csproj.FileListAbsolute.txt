@@ -1,0 +1,11 @@
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ThinkGearNETTest.Form1.resources
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ThinkGearNETTest.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ResGen.read.1.tlog
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ResGen.write.1.tlog
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\bin\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\bin\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\bin\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\bin\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\NeuroSky\ThinkGearNET_1.1\ThinkGearNET_1.1\samples\ThinkGearNETTest\obj\Debug\ThinkGearNETTest.pdb

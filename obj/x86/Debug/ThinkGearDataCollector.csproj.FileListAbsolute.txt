@@ -1,0 +1,99 @@
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.Form1.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_1.1\obj\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearNETTest.FormView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\obj\x86\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1\bin\x86\Debug\ThinkGearNETTest.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNETTest.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNETTest.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNETTest.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.RealDataView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_2.1(add data viewer)\obj\x86\Debug\ThinkGearNETTest.HistoryDataForm.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearNETTest.RealDataView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearNETTest.HistoryDataForm.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x86\Debug\ThinkGearNETTest2.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearNETTest.RealDataView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearNETTest.HistoryDataForm.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearNETTest2.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(add indicator)\obj\x86\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\bin\x86\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearDataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearNETTest.RealDataView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearNETTest.HistoryDataForm.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearNETTest2.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_4.0(multi viewer)\obj\x86\Debug\NeuroSkyDataViewerCollector.application

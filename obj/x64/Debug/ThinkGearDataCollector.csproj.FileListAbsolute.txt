@@ -1,0 +1,16 @@
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\NeuroSkyDataViewerCollector.exe.config
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\thinkgear.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\NeuroSkyDataViewerCollector.pdb
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\bin\x64\Debug\ThinkGearNET.dll
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\ThinkGearNETTest.FormMain.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\ThinkGearNETTest.RealDataView.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\ThinkGearNETTest.HistoryDataForm.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\ThinkGearNETTest2.Properties.Resources.resources
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\ThinkGearDataCollector.csproj.GenerateResource.Cache
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\NeuroSkyDataViewerCollector.exe.manifest
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\NeuroSkyDataViewerCollector.application
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\NeuroSkyDataViewerCollector.exe
+C:\Users\Killua\Downloads\Tongda\Program\C#\ThinkGearNET_3.1(add indicator)\obj\x64\Debug\NeuroSkyDataViewerCollector.pdb

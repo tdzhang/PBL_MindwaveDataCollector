@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="NeuroSkyDataViewerCollector.exe" version="1.0.0.7" publicKeyToken="309b772bf59d23b2" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="NeuroSkyDataViewerCollector" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="NeuroSkyDataViewerCollector.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NeuroSkyDataViewerCollector.exe" size="33792">
+      <assemblyIdentity name="NeuroSkyDataViewerCollector" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>l5tb/HfVxjTBHF7DXeTvqh8Pi7w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ThinkGearNET.dll" size="10240">
+      <assemblyIdentity name="ThinkGearNET" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>QYLXzWEzbrfWA4Yp5j821n79c80=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="NeuroSkyDataViewerCollector.exe.config" size="159">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>1MarUy3RuVvHLdw5ozZo3o7j39I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="thinkgear.dll" size="557056">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NVLR0P83WZlz93iGGm7M8BpboXc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Killua-Laptop\Killua" issuerKeyHash="4616a1c1bd7b41fbd492b9137118fd29c0ab91ed" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Z4EBgEq1SQgmWtlXryfCUFyPHx8=</DigestValue></Reference></SignedInfo><SignatureValue>G/QkIaTechAEA2DTlJHImu+OQzYDw/R/5aTySOx7fMhX5Rznxrxmu2g+3MCWqFE2ULvmZMu1+Lklu17tKr0cktUpw1n2YUFzW6G3e2k2ICLC7zbAGjylIROk1UjpQcUVSYgL9jpgoQLROAQ7M3x69wcmOz2NoM3cdHIuxO47d7s=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yMY1C4xtof0OQ16ZiNT5hKDitPdSPlTuvBk4ySPdH5kblsRZX9TdxEFqRpJVLXWLqEBD3lPjvO5XNj9pWktqmmHjLmKrNudhyw8TEWYkBaavEZp2x37vMc1fxlIR4IpXItyk8J6oCSrb4UuikW2yzRHtxWpsnCWwkZlaMbyQSoE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1f1f8f5c50c227af57d95a260849b54a80018167" Description="" Url=""><as:assemblyIdentity name="NeuroSkyDataViewerCollector.exe" version="1.0.0.7" publicKeyToken="309b772bf59d23b2" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Killua-Laptop\Killua</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CcfpT9/ymUD+xljlshORTjekp3Q=</DigestValue></Reference></SignedInfo><SignatureValue>RzfH9FxcU1x2IITP9OmXV35Of0e6ZaXIvYCVtVyDCbxlNCUTsMDci5Q5uelkHWVOyXPxOSoS46+3vM8QyypmZcSbNBN2zFU+Ww7+1kaZ890wTb/tI3+9S5t3d5gds501uVA15Nepqhy1qOhr2XGakLN0uLQ0Q0LuI4Op0D6k43o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yMY1C4xtof0OQ16ZiNT5hKDitPdSPlTuvBk4ySPdH5kblsRZX9TdxEFqRpJVLXWLqEBD3lPjvO5XNj9pWktqmmHjLmKrNudhyw8TEWYkBaavEZp2x37vMc1fxlIR4IpXItyk8J6oCSrb4UuikW2yzRHtxWpsnCWwkZlaMbyQSoE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQVVsZhJzhaLVEsH6tfHoYcDANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigASwBpAGwAbAB1AGEALQBMAGEAcAB0AG8AcABcAEsAaQBsAGwAdQBhMB4XDTEzMDQwODAwMDIzNloXDTE0MDQwODA2MDIzNlowMzExMC8GA1UEAx4oAEsAaQBsAGwAdQBhAC0ATABhAHAAdABvAHAAXABLAGkAbABsAHUAYTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyMY1C4xtof0OQ16ZiNT5hKDitPdSPlTuvBk4ySPdH5kblsRZX9TdxEFqRpJVLXWLqEBD3lPjvO5XNj9pWktqmmHjLmKrNudhyw8TEWYkBaavEZp2x37vMc1fxlIR4IpXItyk8J6oCSrb4UuikW2yzRHtxWpsnCWwkZlaMbyQSoECAwEAATANBgkqhkiG9w0BAQUFAAOBgQCbjp+BdWKltwPqVrGNBSJLBKmrO3xh/GiIy3eUTKFnbHXK5JVKAISxJBbyWVUX/PjsFbcVB4ktViP+0gsfRe8Uo6ZkjXJPbTz8hDDHyePOrPuU+VTEmrYqOMpXIX9YDsB5Tn0/gnbZe1nZFJPhknQW3Tp8SldVkCVZ/g5N51LY7g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
